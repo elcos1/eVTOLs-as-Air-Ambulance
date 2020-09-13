@@ -97,7 +97,7 @@ on Google)
 
 """
 ## =============================================================================
-## gmaps_key = googlemaps.Client(key = "AIzaSyD6AI2Ah1avkk5fugX5wDI_0qgF5Ht9208")
+## gmaps_key = googlemaps.Client(key = "xxxxx")
 ## 
 ## for i in range(0, len(addresses_data), 1):
 ##     geocode_result = gmaps_key.geocode(addresses_data.iat[i,0])
